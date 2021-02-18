@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(195, 157, 231);
+ }
+
+ form {
+     background-color: rgb(39, 101, 138);
+     width: 600px;
+     padding: 20px;
+ }
